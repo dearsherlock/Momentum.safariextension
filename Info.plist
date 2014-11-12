@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Momentum Dashboard Corp.</string>
+	<key>Builder Version</key>
+	<string>10600.1.25</string>
+	<key>CFBundleDisplayName</key>
+	<string>Momentum</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.momentumdash.safari</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.29</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>Chrome</key>
+	<dict>
+		<key>Global Page</key>
+		<string>safari.html</string>
+	</dict>
+	<key>Content</key>
+	<dict>
+		<key>Scripts</key>
+		<dict/>
+	</dict>
+	<key>Description</key>
+	<string>Momentum is a personal dashboard designed to provide inspiration, focus, and productivity.</string>
+	<key>DeveloperIdentifier</key>
+	<string>Z8U82CZ8A9</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>Permissions</key>
+	<dict>
+		<key>Website Access</key>
+		<dict>
+			<key>Include Secure Pages</key>
+			<true/>
+			<key>Level</key>
+			<string>All</string>
+		</dict>
+	</dict>
+	<key>Update Manifest URL</key>
+	<string>http://static.momentumdash.com/update.plist</string>
+	<key>Website</key>
+	<string>http://momentumdash.com</string>
+</dict>
+</plist>
